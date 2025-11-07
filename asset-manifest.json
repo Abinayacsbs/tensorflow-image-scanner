@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f921ab8e.css",
-    "main.js": "/static/js/main.b8be2b31.js",
-    "static/js/453.e00ae60b.chunk.js": "/static/js/453.e00ae60b.chunk.js",
-    "index.html": "/index.html",
-    "main.f921ab8e.css.map": "/static/css/main.f921ab8e.css.map",
-    "main.b8be2b31.js.map": "/static/js/main.b8be2b31.js.map",
-    "453.e00ae60b.chunk.js.map": "/static/js/453.e00ae60b.chunk.js.map"
+    "main.css": "/tensorflow-image-scanner/static/css/main.f921ab8e.css",
+    "main.js": "/tensorflow-image-scanner/static/js/main.8acc645b.js",
+    "static/js/453.e00ae60b.chunk.js": "/tensorflow-image-scanner/static/js/453.e00ae60b.chunk.js",
+    "index.html": "/tensorflow-image-scanner/index.html",
+    "main.f921ab8e.css.map": "/tensorflow-image-scanner/static/css/main.f921ab8e.css.map",
+    "main.8acc645b.js.map": "/tensorflow-image-scanner/static/js/main.8acc645b.js.map",
+    "453.e00ae60b.chunk.js.map": "/tensorflow-image-scanner/static/js/453.e00ae60b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f921ab8e.css",
-    "static/js/main.b8be2b31.js"
+    "static/js/main.8acc645b.js"
   ]
 }
